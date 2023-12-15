@@ -45,6 +45,7 @@ section#redes-sociais img{
     position: relative;
     left: 50%;
     transform: translate(-320%);
+    margin: 10px 0px 0px 0px;
 
     width: 48px;
     border-radius: 24px;
